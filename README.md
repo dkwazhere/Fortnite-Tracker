@@ -20,3 +20,13 @@ A step by step series of how to install the application.
 
 ## Live demo
 coming soon
+
+## Screen Shots
+![alt text](https://i.imgur.com/HZJljwN.png)
+### Step 1
+- Choose a operating system
+![alt text](https://i.imgur.com/OnZqeq3.png)
+### Step 2
+- Type in fortnite user name
+- Press Submit
+- Enjoy!
