@@ -1,5 +1,5 @@
 # Fortnite Tracker
-Use this application to track your stats or even other player stats.
+Use this application to track your stats or other player stats.
 
 
 ## Getting Started
